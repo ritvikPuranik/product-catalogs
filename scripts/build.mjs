@@ -45,6 +45,9 @@ function head(title, description, base) {
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:type" content="website">
+<link rel="icon" href="${base}assets/favicon.svg" type="image/svg+xml">
+<link rel="alternate icon" href="${base}assets/favicon.ico" sizes="16x16 32x32 48x48">
+<link rel="apple-touch-icon" href="${base}assets/apple-touch-icon.png">
 <link rel="stylesheet" href="${base}assets/css/site.css">`;
 }
 
@@ -156,7 +159,7 @@ function sectionPage(section) {
   return `<!doctype html>
 <html lang="en">
 <head>
-${head(`${section.title} — ${site.brand}`, section.meta_description, base)}
+${head(section.title, section.meta_description, base)}
 </head>
 <body>
 <div class="wrap">
@@ -237,5 +240,6 @@ for (const section of sections) {
     (missing ? `, ${missing} awaiting photography` : ''));
 }
 
+cpSync(join(ROOT, 'assets/favicon.ico'), join(DIST, 'favicon.ico'));
 if (existsSync(join(ROOT, '_headers'))) cpSync(join(ROOT, '_headers'), join(DIST, '_headers'));
 console.log('built.');

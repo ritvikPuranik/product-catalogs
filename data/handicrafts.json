@@ -1,0 +1,147 @@
+{
+  "slug": "handicrafts",
+  "title": "Pattachitra",
+  "eyebrow": "Export catalogue · Odisha to the United States",
+  "door_title": "Pattachitra paintings",
+  "meta_description": "Hand-painted Odisha Pattachitra on traditional cloth pata, sourced from Raghurajpur and exported to the United States.",
+  "dek": "Pattachitra is Odisha's temple painting tradition: a cloth pata built up from layers of cotton bonded with tamarind-seed paste, chalked, burnished to a shell-smooth ground, then painted freehand in natural pigment with a brush of mouse hair. No pencil under-drawing, no correction — the black outline goes down last and decides the piece.",
+  "dek_2": "The painters we source from are the chitrakars entrusted with painting the Rath Yatra chariots at Puri each year. Work comes directly from their households in Raghurajpur and the surrounding villages, and is exported to buyers in the United States. Every piece below is a single original; nothing in this catalogue is reproduced.",
+  "meta": [
+    {
+      "label": "Origin",
+      "value": "Raghurajpur, Odisha"
+    },
+    {
+      "label": "Surface",
+      "value": "Cloth pata"
+    },
+    {
+      "label": "Pigment",
+      "value": "Natural, hand-ground"
+    },
+    {
+      "label": "Supply",
+      "value": "Direct to buyer"
+    }
+  ],
+  "price_line": "Reach out for price details",
+  "notes": [
+    {
+      "heading": "The ground",
+      "body": "Two lengths of cotton are bonded with tamarind-seed paste and dried, then coated with soft chalk and tamarind and rubbed down with a smooth stone until the surface takes a line cleanly. The pata is made by the painter's household, not bought in."
+    },
+    {
+      "heading": "Pigment",
+      "body": "Hand-ground mineral and organic colour — hingula for red, haritala for yellow, conch-shell white, lamp black collected from an oil flame. Colour is bound in kaitha gum. No acrylic, and no synthetic substitution on any piece in this catalogue."
+    },
+    {
+      "heading": "One of one",
+      "body": "Each painting is an original and is sold once. Where a subject appears in more than one size, the pieces are separate works rather than editions — the composition is redrawn each time, by hand, with no transfer or stencil."
+    },
+    {
+      "heading": "Export and shipping",
+      "body": "Pieces ship rolled in an acid-free tube or flat-packed between boards, depending on size and surface. Export documentation, insurance and any duties into the US are handled at this end and confirmed at enquiry."
+    }
+  ],
+  "items": [
+    {
+      "sku": "PC-01",
+      "name": "Ratnavedi Trinity",
+      "region": "Raghurajpur, Odisha",
+      "image": "assets/img/handicrafts/jagannath-trinity-ratnavedi.jpg",
+      "surface": "Cloth pata",
+      "pigments": "Natural, hand-ground",
+      "size": "4ft * 2ft",
+      "availability": "Enquire",
+      "description": "Balabhadra, Subhadra and Jagannath ranged along the ratnavedi beneath the temple's tiered arch, in the bright register of festival painting — coral, turquoise and rose against a star-flecked black ground. The horizontal format is the one the trinity is traditionally given, all three frontal and at equal weight."
+    },
+    {
+      "sku": "PC-02",
+      "name": "Trinity with Narrative Border",
+      "region": "Raghurajpur, Odisha",
+      "image": "assets/img/handicrafts/jagannath-trinity-temple.jpg",
+      "surface": "Cloth pata",
+      "pigments": "Natural, hand-ground",
+      "size": "4ft * 2ft",
+      "availability": "Enquire",
+      "description": "The trinity set inside the pillared temple interior, with ten narrative vignettes running as panels above and below. Painted in the older, more restrained palette — hingula red and lamp black over the pata's natural ground — the deities' halos worked as concentric sunbursts."
+    },
+    {
+      "sku": "PC-03",
+      "name": "Garlanded Trinity",
+      "region": "Raghurajpur, Odisha",
+      "image": "assets/img/handicrafts/jagannath-trinity-garlands.jpg",
+      "surface": "Cloth pata",
+      "pigments": "Natural, hand-ground",
+      "size": "4ft * 2ft",
+      "availability": "Enquire",
+      "description": "The three deities in full ceremonial dress under a canopy, hung with the tiered rose garlands the Puri temple uses on festival days. A dense border of green and white floral scrollwork frames the panel, and the black ground is scattered with the white dots that stand for a night sky."
+    },
+    {
+      "sku": "PC-04",
+      "name": "Jagannath in Gold",
+      "region": "Raghurajpur, Odisha",
+      "image": "assets/img/handicrafts/jagannath-gold.jpg",
+      "surface": "Cloth pata",
+      "pigments": "Natural, hand-ground",
+      "size": "2ft * 4ft",
+      "availability": "Enquire",
+      "description": "Jagannath alone beneath the temple shikhara, worked almost entirely in gold and silver against black and deep red — the treatment reserved for the deity in ornamental besha. The blue border of running floral scroll is carried in one continuous line around all four sides."
+    },
+    {
+      "sku": "PC-05",
+      "name": "Jagannath Enthroned",
+      "region": "Raghurajpur, Odisha",
+      "image": "assets/img/handicrafts/jagannath-colour.jpg",
+      "surface": "Cloth pata",
+      "pigments": "Natural, hand-ground",
+      "size": "2ft * 4ft",
+      "availability": "Enquire",
+      "description": "Jagannath frontal beneath a tiered pidha roof and a night-blue sky, in the fully polychrome idiom. The chest medallion opens into a small Radha–Krishna scene — a device that lets a second narrative sit inside the deity's own figure without breaking the frontal composition."
+    },
+    {
+      "sku": "PC-06",
+      "name": "Ganesha",
+      "region": "Raghurajpur, Odisha",
+      "image": "assets/img/handicrafts/ganesha.jpg",
+      "surface": "Cloth pata",
+      "pigments": "Natural, hand-ground",
+      "size": "2ft * 4ft",
+      "availability": "Enquire",
+      "description": "Ganesha seated in silver-white line work over hingula red and black, the body filled with miniature figures so the form reads as a crowd close up and a single deity at a distance. Five smaller Ganesha forms run as a predella along the foot of the panel."
+    },
+    {
+      "sku": "PC-07",
+      "name": "Panchamukhi Hanuman",
+      "region": "Raghurajpur, Odisha",
+      "image": "assets/img/handicrafts/panchamukhi-hanuman.jpg",
+      "surface": "Cloth pata",
+      "pigments": "Natural, hand-ground",
+      "size": "2ft * 4ft",
+      "availability": "Enquire",
+      "description": "The five-faced Hanuman — lion, boar, eagle and horse ranged around the central simian head — standing armed, in a blue and white palette unusual for the tradition. The lotus and pillar architecture around him is drawn in the fine white line the Puri painters reserve for stonework."
+    },
+    {
+      "sku": "PC-08",
+      "name": "Hanuman Chalisa",
+      "region": "Raghurajpur, Odisha",
+      "image": "assets/img/handicrafts/hanuman-chalisa.jpg",
+      "surface": "Cloth pata",
+      "pigments": "Natural, hand-ground",
+      "size": "To be confirmed",
+      "availability": "Enquire",
+      "description": "The forty verses of the Hanuman Chalisa lettered in Devanagari across orange text bands, each band divided by a register of painted narrative on a rose-pink ground, with Hanuman enthroned at the centre. A reading object as much as a painting — the text is the structure."
+    },
+    {
+      "sku": "PC-09",
+      "name": "Raas Mandala",
+      "region": "Raghurajpur, Odisha",
+      "image": "assets/img/handicrafts/raas-mandala.jpg",
+      "surface": "Cloth pata",
+      "pigments": "Natural, hand-ground",
+      "size": "To be confirmed",
+      "availability": "Enquire",
+      "description": "Krishna and the gopis in the circular raas beneath a flowering tree, composed as a mandala on a square pata and worked almost entirely in white line on black with colour used sparingly. Four corner rosettes and a banded border square off the round composition."
+    }
+  ]
+}

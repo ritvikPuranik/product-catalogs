@@ -1,0 +1,12 @@
+{
+  "name": "product-catalogs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static catalogues: devotional items (wholesale) and Pattachitra paintings (export).",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "photos": "node scripts/photos.mjs",
+    "serve": "node scripts/build.mjs && python3 -m http.server 8000 -d dist"
+  }
+}

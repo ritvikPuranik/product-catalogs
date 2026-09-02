@@ -1,0 +1,22 @@
+{
+  "brand": "Catalogues",
+  "contact_email": "ritvik506@gmail.com",
+  "landing_title": "Two catalogues",
+  "landing_dek": "Two lines kept side by side. Devotional items are produced for the Indian trade, wholesale and white-label. The Pattachitra is hand-painted in Odisha and prepared for buyers in the United States. Both catalogues are open — browse them, and get in touch about anything in either.",
+  "landing_description": "Devotional items for the Indian wholesale trade, and hand-painted Odisha Pattachitra for buyers in the United States.",
+  "sections": [
+    {
+      "slug": "devotional",
+      "nav": "Devotional items",
+      "door_image": "assets/img/devotional/nataraja.jpg",
+      "door_blurb": "Regional deities and temple motifs produced as tabletop objects on FDM machines. Supplied wholesale and white-label to the Indian trade, in metal-filled, stone and matte finishes."
+    },
+    {
+      "slug": "handicrafts",
+      "nav": "Pattachitra",
+      "door_blurb": "Odisha's temple painting tradition on hand-built cloth pata, in natural pigment, sourced direct from painter families in Raghurajpur and exported to the United States.",
+      "door_image": "assets/img/handicrafts/jagannath-trinity-ratnavedi.jpg"
+    }
+  ],
+  "landing_eyebrow": "For buyers and collectors"
+}

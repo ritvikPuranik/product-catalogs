@@ -1,0 +1,6 @@
+dist/
+assets/img/_incoming/*
+!assets/img/_incoming/.gitkeep
+.DS_Store
+node_modules/
+.venv/

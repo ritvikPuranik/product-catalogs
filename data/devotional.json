@@ -1,0 +1,147 @@
+{
+  "slug": "devotional",
+  "title": "Bhagwan Bazaar",
+  "eyebrow": "Wholesale line sheet",
+  "door_title": "Devotional items",
+  "meta_description": "Regional Indian deities and temple motifs produced as 3D-printed tabletop objects. Wholesale and white-label line sheet.",
+  "dek": "Regional deities and temple motifs, reduced to tabletop objects and produced to order on FDM machines. Every piece in the range is drawn from a specific place — a Kerala caparison, a Chola bronze, an Odia temple wheel — and modelled to hold that detail at desk scale.",
+  "dek_2": "Supplied wholesale and white-label. Finishes, dimensions and colourways can be varied per order, and we manufacture to custom design — send an image of the piece you want and we model it and print it. The range below is the standing catalogue, not a limit.",
+  "meta": [
+    {
+      "label": "Pieces",
+      "value": "9"
+    },
+    {
+      "label": "Materials",
+      "value": "PLA · ABS · ASA · PETG"
+    },
+    {
+      "label": "Finishes",
+      "value": "Bronze · brass · stone · matte"
+    },
+    {
+      "label": "Supply",
+      "value": "B2B · white-label"
+    }
+  ],
+  "price_line": "Price on request",
+  "notes": [
+    {
+      "heading": "Materials",
+      "body": "PLA for fine surface detail and metal-filled finishes; ABS and ASA where the piece needs heat or UV tolerance; PETG where it will be handled or hung. Material can be substituted per order."
+    },
+    {
+      "heading": "Finishing",
+      "body": "Metal-filled prints are hand-polished on the raised surfaces so the recesses stay dark. Stone finishes are a filled-and-sealed process. Unfinished pieces ship with layer lines intact for buyers who paint in-house."
+    },
+    {
+      "heading": "White-label",
+      "body": "Pieces can be produced without our marking, with your own base engraving, or in a colourway matched to your range. Packaging is specified per order."
+    },
+    {
+      "heading": "Ordering",
+      "body": "Quantities, lead times and landed pricing are quoted per enquiry — volume and finish move the number considerably. Sample sets are available before a first order."
+    }
+  ],
+  "items": [
+    {
+      "sku": "SKU 01",
+      "name": "Nettipattam",
+      "region": "Kerala",
+      "image": "assets/img/devotional/nettipattam.jpg",
+      "height_mm": 240,
+      "material": "PLA",
+      "finish": "Brass-filled",
+      "availability": "In stock",
+      "description": "The gilded crescent that fronts a temple elephant at Thrissur Pooram, worked in Kerala as rows of embossed bosses over cloth. Held here as a standing plate: concentric domes printed in brass-filled filament, polished on the crowns so they catch light the way beaten metal does."
+    },
+    {
+      "sku": "SKU 02",
+      "name": "Nataraja",
+      "region": "Tamil Nadu",
+      "image": "assets/img/devotional/nataraja.jpg",
+      "height_mm": 180,
+      "material": "PLA",
+      "finish": "Bronze-filled",
+      "availability": "In stock",
+      "description": "Shiva in the ananda tandava, ringed by the prabhavali of flame with Apasmara underfoot. Modelled to the Chola bronze proportions rather than the modern souvenir form, and printed in bronze-filled filament that darkens in the recesses as it is handled."
+    },
+    {
+      "sku": "SKU 03",
+      "name": "Hoysala shrine",
+      "region": "Karnataka",
+      "image": "assets/img/devotional/hoysala-shrine.jpg",
+      "height_mm": 210,
+      "material": "ABS",
+      "finish": "Stone",
+      "availability": "In stock",
+      "description": "The stellate plan of Belur and Halebidu compressed to a desk-scale shrine — rotated square bases, lathe-turned pillars, a deep eave that throws the shadow line the originals depend on. Printed in ABS and stone-finished to read as the region's soft chloritic schist."
+    },
+    {
+      "sku": "SKU 04",
+      "name": "Bathukamma",
+      "region": "Telangana",
+      "image": "assets/img/devotional/bathukamma.jpg",
+      "height_mm": 190,
+      "material": "PLA",
+      "finish": "Matte",
+      "availability": "In stock",
+      "description": "Telangana stacks the Bathukamma in conical tiers of seasonal flowers around a central lamp, then floats it on water at the close of the festival. Rendered as a seven-tier form in matte PLA — the arrangement kept, the impermanence set aside."
+    },
+    {
+      "sku": "SKU 05",
+      "name": "Ganpati",
+      "region": "Maharashtra",
+      "image": "assets/img/devotional/ganpati.jpg",
+      "height_mm": 150,
+      "material": "PLA",
+      "finish": "Shadu-clay imitation",
+      "availability": "In stock",
+      "description": "The Maharashtrian domestic form for Ganesh Chaturthi, seated with modak in hand. Finished to imitate shadu — the pale river silt used for idols meant to dissolve on immersion — on a piece built to be kept and brought out each year instead."
+    },
+    {
+      "sku": "SKU 06",
+      "name": "Konark chakra",
+      "region": "Odisha",
+      "image": "assets/img/devotional/konark-chakra.jpg",
+      "height_mm": 260,
+      "material": "ASA",
+      "finish": "Stone",
+      "availability": "In stock",
+      "description": "One of the twenty-four wheels of the Sun Temple chariot at Konark, each carved as a working sundial across eight major and eight minor spokes. The largest plate in the range, printed in ASA for UV stability so it holds up in a window or a lit display case."
+    },
+    {
+      "sku": "SKU 07",
+      "name": "Toran",
+      "region": "Gujarat",
+      "image": "assets/img/devotional/toran.jpg",
+      "height_mm": 300,
+      "material": "PETG",
+      "finish": "Matte",
+      "availability": "In stock",
+      "description": "The Gujarati threshold hanging strung above a doorway to mark an auspicious entry, traditionally beadwork, mirror and hand embroidery. Printed as a single span in matte PETG, which takes handling and humidity better than PLA where a piece is mounted and left."
+    },
+    {
+      "sku": "SKU 08",
+      "name": "Kumartuli form",
+      "region": "West Bengal",
+      "image": "assets/img/devotional/kumartuli-form.jpg",
+      "height_mm": 200,
+      "material": "PLA",
+      "finish": "Unfinished",
+      "availability": "In stock",
+      "description": "Kolkata's Kumartuli quarter builds Durga up over a straw and clay armature, and the unpainted stage has a following of its own. Shipped deliberately unfinished — layer lines standing in for the potter's tool marks, surface ready for the buyer's own paint."
+    },
+    {
+      "sku": "SKU 09",
+      "name": "Ram Mandir",
+      "region": "Uttar Pradesh",
+      "image": "assets/img/devotional/ram-mandir.jpg",
+      "height_mm": 220,
+      "material": "ABS",
+      "finish": "Stone",
+      "availability": "In stock",
+      "description": "The Ayodhya temple in the Nagara idiom — tiered shikhara, the mandapa sequence, a carved plinth running the full footprint. The most surface area of anything in the range, and the piece that rewards the stone finish most across a wide elevation."
+    }
+  ]
+}
